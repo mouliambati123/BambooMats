@@ -1,0 +1,94 @@
+body{
+    background: url(../images/Kate-White-Brick-Wall-Backgrounds-For-Photo-Studio-10ft-Wedding-Retro-Background-Photography-Wall-Wasahble-Seamless.jpg);
+     font-family: 'Play', sans-serif;
+}
+#line{
+    border-top: solid  black 3px;
+}
+
+.banner{
+    background: url(../images/MATS.jpeg);
+    height: 100vh;
+}
+
+.navbar-brand{
+    font-size: 2em;
+}
+
+.nav-link{
+    font-size: 1.5em;
+    color: red!important;
+}
+#logo{
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+#logo-box{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+#logo img{
+    width: 10em;
+}
+#logo p{
+    font-size: 3em;
+    color: darkorange;
+}
+#logo button{
+    color: white;
+    background-color: red;
+}
+
+#search{
+    display: none;
+    
+}
+
+
+/*end of header*/
+
+#about{
+    padding: 50px;
+    
+}
+
+#about h1{
+    text-align: center;
+}
+#pic{
+    height: 300px
+   
+}
+
+/*end of about*/
+#service{
+    padding: 50px;
+    height: 100vh;
+}
+#service h1{
+    text-align: center;
+}
+/*end of service*/
+#contact{
+    padding: 50px;
+}
+#contact h1{
+    text-align: center;
+}
+.row h4{
+    font: bold;
+}
+
+
+/*end of contact*/
+
+#footer{
+    text-align: center;
+}
+#footer p{
+    font-size: 2em;
+}
+
+/*end of footer*/
